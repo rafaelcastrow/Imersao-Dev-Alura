@@ -1,0 +1,74 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    min-height: 400px;
+    background-image: url("https://conteudo.imguol.com.br/c/entretenimento/2d/2017/12/19/capa-consoles-1513704274993_v2_1920x1080.jpg");
+    background-color: #000000;
+    background-size: 200vh;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  
+  input {
+    margin: 12px;
+    padding: 6px;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  label {
+    color: white;
+  }
+  
+  button {
+    margin-top: 12px;
+    padding: 4px 8px;
+    border-radius: 10px;
+    background: #ffffff;
+  }
+  
+  h2 {
+    color: black;
+    font-size: 30px;
+  }
+
+  #valorConvertidoDolar, #valorConvertidoEuro {
+      border-radius: 5rem;
+      background-color: white;
+      width: 650px;
+      border-style: solid;
+      margin-left: 35rem;
+      margin-top: 5rem;
+  }
+
+  .moeda {
+      font-weight: bold;
+      font-size: 3rem;
+  }
+  
